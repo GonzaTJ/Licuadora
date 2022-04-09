@@ -1,4 +1,5 @@
 var estadoLicuadora ="apagada"
+var licuadora = document.getElementById("blender");
 
 function controlarLicuadora() {
   if (estadoLicuadora == "apagada"){
